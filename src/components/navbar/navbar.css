@@ -1,0 +1,9 @@
+.navbar{
+    color: rgb(17, 4, 61);
+    background-color: rgb(81, 211, 21);
+    font-weight: bolder;
+    text-align: center;
+    font-size: 25px;
+    width: 75%;
+    height: 100px;
+}
