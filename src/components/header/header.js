@@ -18,7 +18,7 @@ console.log('address',this.state)
 updateName=()=>{
   //this.state.title="Mugesh"
   this.setState({title:"Murugeshkumar"})
-  console.log('Nickname',this.state)
+  // console.log('Nickname',this.state)
   }
 
   render() {
